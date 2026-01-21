@@ -1,4 +1,4 @@
-# WaveWizard :musical_note:
+# WaveWizard :musical_keyboard: :musical_note:
 
 ### Features
 
